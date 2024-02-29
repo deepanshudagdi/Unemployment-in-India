@@ -35,7 +35,7 @@
 -
 
 ## Conclusion
--This project involved a comprehensive analysis of a Unemployment dataset, providing valuable insights for the india . Key findings include variations in Estimated Employed, Estimated Unemployment Rate, Indian Unemployment rate(Region-wise). These insights can help to overcome unemployment in india The project aims to empower youth with data-driven decision-making to enhance the generate employemnt in india.
+This project involved a comprehensive analysis of a Unemployment dataset, providing valuable insights for the india . Key findings include variations in Estimated Employed, Estimated Unemployment Rate, Indian Unemployment rate(Region-wise). These insights can help to overcome unemployment in india The project aims to empower youth with data-driven decision-making to enhance the generate employemnt in india.
 
 
 ## Author: Deepanshu Dagdi
