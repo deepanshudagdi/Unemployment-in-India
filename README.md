@@ -9,10 +9,10 @@
 - [Conclusion](#conclusion)
 
 ## Overview
-- Analyzing India's unemployment trends and getting insights.
+- This project involves scrutinizing the unemployment trends in India and extracting valuable insights.
 
 ## Objective
-- The objective of this analysis is to understand which state or region has the highest Unemployment rate in India to overcome unemployment
+- The aim of this analysis is to identify the states or regions with the highest unemployment rates in India, with the intention of devising strategies to mitigate unemployment challenges.
 
 ## Data
 - The dataset used for this analysis contains information about Region, Estimated Unemployment Rate (%), Estimated Employed, and Area.
